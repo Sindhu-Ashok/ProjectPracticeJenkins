@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Byyeee]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-31T11:35:50 IST" name="Default suite" finished-at="2022-05-31T11:35:51 IST" duration-ms="892">
+    <groups>
+    </groups>
+    <test started-at="2022-05-31T11:35:50 IST" name="Default test" finished-at="2022-05-31T11:35:51 IST" duration-ms="892">
+      <class name="PracticeTest.PracticeTest">
+        <test-method signature="testName()[pri:0, instance:PracticeTest.PracticeTest@e4d2696]" started-at="2022-05-31T11:35:50 IST" name="testName" finished-at="2022-05-31T11:35:51 IST" duration-ms="421" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Byyeee]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testName -->
+      </class> <!-- PracticeTest.PracticeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
