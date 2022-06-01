@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class SamplePracticeTest 
 {
-//CHANGED
+//CHANGEDD
 			@Test
 			public void testName() throws Exception 
 			{
