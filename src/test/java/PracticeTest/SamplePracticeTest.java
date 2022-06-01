@@ -2,9 +2,7 @@ package PracticeTest;
 
 import org.testng.Reporter;
 import org.testng.annotations.Test;
-
-//changes in branch 1
-
+//Changes in B1
 public class SamplePracticeTest 
 {
 //CHANGEDD
