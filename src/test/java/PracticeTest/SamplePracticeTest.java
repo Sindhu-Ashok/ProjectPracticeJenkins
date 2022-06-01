@@ -3,11 +3,9 @@ package PracticeTest;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-//changes in branch 1
+//changes in branch 2
 
-public class SamplePracticeTest 
-{
-//CHANGEDD
+public class SamplePracticeTest {
 			@Test
 			public void testName() throws Exception 
 			{
